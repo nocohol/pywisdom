@@ -1,0 +1,2 @@
+# pywisdom
+Some python examples
